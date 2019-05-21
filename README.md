@@ -21,3 +21,7 @@ Tableau for visualisation
 * Import aggregations to Tableau
  * Visualise as stacked bar chart over time
  * Show breakdown at each time interval
+
+## Images
+[images/dashboard1.png]
+[images/dashboard2.png]
