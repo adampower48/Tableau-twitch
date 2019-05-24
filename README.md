@@ -1,8 +1,8 @@
 # Tableau-twitch
 ## Tools
-Node.js for scraping chat messages
-Jupyter Notebook for processing chat messages and extracting emotes
-Tableau for visualisation
+* Node.js for scraping chat messages  
+* Jupyter Notebook for processing chat messages and extracting emotes  
+* Tableau for visualisation  
 
 ## Datasets
 * Twitch global & subscriber emotes
